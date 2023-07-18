@@ -5,8 +5,7 @@ const FooterComponent = styled.footer`
   width: 100%;
   height: 300px;
   background-color: var(--bg-wire-2);
-  position: absolute;
-  bottom: 0;
+
 `
 
 const FooterWrapper = styled.div`
