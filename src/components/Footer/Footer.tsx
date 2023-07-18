@@ -21,7 +21,7 @@ export default function Footer() {
   return (
     <FooterComponent>
       <FooterWrapper>
-        <FooterMenuGroup />
+        <FooterMenuGroup /> 
       </FooterWrapper>
     </FooterComponent>
   )
