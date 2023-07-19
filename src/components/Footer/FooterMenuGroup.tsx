@@ -31,7 +31,6 @@ const FooterMenuItems = styled.div`
 
 export default function FooterMenuGroup() {
 
-
   return (
     <FooterMenuGroupComponent>
       <FooterMenuItems>
